@@ -1,4 +1,5 @@
 // console.log
 
-let userName = 'john';
-console.log('Welcome john');
+let userName = ' john';
+Let message = 'Welcom';
+console.log(message + userName);
