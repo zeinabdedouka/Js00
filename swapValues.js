@@ -4,4 +4,5 @@ let b = 20;
 let temp = a;
 a = b;
 b = temp;
-console.log(a,b);
+console.log('New value of a:' , a);
+Console.log('New value of b:' , b);
